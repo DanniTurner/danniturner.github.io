@@ -34,6 +34,9 @@ header{
     letter-spacing:3px;
     font-variant:small-caps;
   }
+  span{
+    color:1b221e;
+  }
 nav{
   float:right;
    padding: 50px 40px;
