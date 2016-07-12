@@ -74,6 +74,9 @@ h2{
   font-family: 'Abel', sans-serif;
   color:#3b443e;
 }
+#mail-icon{
+   float:right;
+}
 
 #about p {
 
