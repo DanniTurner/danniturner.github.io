@@ -12,6 +12,9 @@
   width: 600px;
   
   }
+  body{
+    background-color:#d3c9c6;
+  }
 
 
 /****HEADER****/
@@ -19,9 +22,7 @@
 header{
   text-align:center;
   height:200px;
-  background-color:#d3c9c6;
-  
-}
+  }
 nav{
   float:right;
    padding: 75px 40px;
