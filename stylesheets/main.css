@@ -1,9 +1,8 @@
-body{
-  background:indianred;
-}
+
 header{
   text-align:center;
-  padding:100px 0;
+  padding:100px;
+  background-color:D3C9C6;
 }
 ul{
   float:left;
