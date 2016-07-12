@@ -82,7 +82,7 @@ h2{
 
 }
 #tri-photos img{
-  
-  margin: 50px 600px 50px 300px;
+   max-width: 80%; 
+margin: 50px 600px 50px 300px;
   
 }
