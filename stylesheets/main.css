@@ -27,14 +27,14 @@ header{
   
   h1{
     font-family: 'Montserrat Subrayada', sans-serif;
-    color:#a0837d;
+    color:#3b443e;
     letter-spacing:3px;
     
   }
   header, p{
     font-family: 'Economica', sans-serif;
     letter-spacing:2px;
-    color:#3b443e;
+    color:##a0837d;
     font-size:30px;
   }
  
