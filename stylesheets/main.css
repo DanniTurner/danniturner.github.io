@@ -64,7 +64,9 @@ h2{
   padding: 30px 0;
 }
 
-
+#about h2{
+  font-family: 'Abel', sans-serif;
+}
 
 #about p {
 
