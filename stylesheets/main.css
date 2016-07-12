@@ -1,7 +1,11 @@
-header, h1, p{
+body{
+  background:d3c9c6;
+}
+
+header{
   text-align:center;
   padding:100px;
-  background-color:5e5857;
+  
 #links{
   float:left;
 }
