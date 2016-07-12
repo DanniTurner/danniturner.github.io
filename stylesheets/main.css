@@ -1,15 +1,42 @@
-/****GRID****/
+/***** GRID *****/
 
+.full-width {
 
+  width: 1200px;
+  margin: 0 auto;
 
-body{
-  background-color:d3c9c6;
 }
+
+.half-width {
+
+  width: 600px;
+  float: left;
+
+}
+
+/****HEADER****/
 
 header{
   text-align:center;
-  padding:100px;
+  height:200px;
+  background-color:d3c9c6;
   
-#links{
-  float:left;
 }
+nav{
+  float:right;
+   padding: 75px 40px;
+}
+nav ul li{
+
+    display: inline-block;
+}
+nav ul li a {
+
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #3b443e;
+    padding-left: 80px;
+
+}
+
