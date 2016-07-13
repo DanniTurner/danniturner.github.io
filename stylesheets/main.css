@@ -89,6 +89,6 @@ h2{
 #tri-photos img{
    max-width: 60%; 
 margin: 50px 600px 50px 300px;
-border-radius: 50%;
+border:white solid;
   
 }
