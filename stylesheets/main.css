@@ -20,14 +20,14 @@
     border-radius: 50%;
     position: absolute;
     top: 0px;
-    right: 50px;
+    right: 0px;
 }
 
 
 /****HEADER****/
 
 header{
-  text-align:center;
+  text-align:left;
   height:200px;
  
   }
