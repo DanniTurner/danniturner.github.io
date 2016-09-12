@@ -18,6 +18,9 @@
   
   .img-circle {
     border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
 
