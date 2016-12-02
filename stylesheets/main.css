@@ -40,12 +40,13 @@ header{
     font-size:30px;
     width:100%;
     text-align:center;
+ 
     
   }
  
 nav{
   float:right;
-   padding: 10px 20px;
+  
    text-align:center;
    width:105%;
 }
