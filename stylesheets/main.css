@@ -19,9 +19,8 @@
   .img-circle {
     border-radius: 40%;
     position: absolute;
-    top: 0px;
-    right: 0px;
-    float:left;
+    
+    float:right;
 }
 
 
